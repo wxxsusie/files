@@ -1,0 +1,5 @@
+Ubuntu20.04 Cuda安装（笔记本）
+1.安装Cuda后重底黑屏错误信息：无参考资料：https://blog.csdn.net/Coder_C9/article/details/105847357解决方案：核心点是要切换成独显直连执行“sudu apt-get install nvidia-prime”（已经安装可以跳过）切换到独显：“sudo prime-select nvidia”*切换到集显：“sudo prime-select intel”安装Nvidia失败错误信息：ERROR: Unable to load the 'Nvidia-drm' kernel module.参考资料：https://askubuntu.com/questions/1509171/ubuntu-20-04-unable-to-load-the-nvidia-drm-kernel解决方案：执行“sudo prime-select nvidia”执行“grep nvidia /etc/modprobe.d/* /lib/modprobe.d/*”，找到文件中包含“blacklist nvidia”字眼的行，sudo vim打开文件，将改行内容注释掉执行“sudo update-initramfs -u”reboot执行Nvidia-smi失败错误信息：NVIDIA-SMI has failed because it couldn‘t communicate with the NVIDIA driver参考资料：https://blog.csdn.net/wjinjie/article/details/108997692解决方案：先确定Nvidia已经安装根据参考资料解决参考资料
+ubuntu系统下多种方法安装nvidia显卡驱动_ubuntu安装nvidia显卡驱动-CSDN博客
+（推荐）
+服务器中安装多版本的cuda_do you accept the above eula?-CSDN博客
