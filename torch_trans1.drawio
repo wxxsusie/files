@@ -185,10 +185,10 @@
         <mxCell id="vtAY9cTU2vYuFBfP6n2g-105" value="Query&lt;br&gt;(10, 32, 512)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="161" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vtAY9cTU2vYuFBfP6n2g-106" value="Key&lt;br&gt;(10, 32, 512)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vtAY9cTU2vYuFBfP6n2g-106" value="Key&lt;br&gt;(20, 32, 512)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="837" y="161" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vtAY9cTU2vYuFBfP6n2g-107" value="Value&lt;br&gt;(10, 32, 512)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vtAY9cTU2vYuFBfP6n2g-107" value="Value&lt;br&gt;(20, 32, 512)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="995" y="160" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
