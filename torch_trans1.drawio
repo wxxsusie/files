@@ -285,7 +285,7 @@
           <mxGeometry x="-504" y="39" width="281" height="379" as="geometry" />
         </mxCell>
         <mxCell id="3WULmgCB93QxSMf1BTFl-6" value="Transformer的特性" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-421.75" y="101" width="116.5" height="30" as="geometry" />
+          <mxGeometry x="-421.75" y="67" width="116.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
