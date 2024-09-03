@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" version="24.7.8">
   <diagram name="第 1 页" id="qHCgXSYTzzumiglc0Adv">
-    <mxGraphModel dx="1158" dy="536" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1558" dy="536" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -280,6 +280,12 @@
             <mxPoint x="338.5" y="97" as="sourcePoint" />
             <mxPoint x="339.5" y="134" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="3WULmgCB93QxSMf1BTFl-5" value="&lt;ol&gt;&lt;li&gt;Attention机制：CNN用卷积核提取特征，RNN用循环结构提取特征。Transformer&lt;br&gt;用注意力机制提取特征。&lt;/li&gt;&lt;li&gt;Encoder-Decoder结构：多层特征编码与&lt;br&gt;解码&lt;/li&gt;&lt;li&gt;dropout：给神经元设置小概率随机遗忘，&lt;br&gt;主要作用是防止过拟合。&lt;/li&gt;&lt;li&gt;归一化：&lt;/li&gt;&lt;li&gt;前馈网络&lt;/li&gt;&lt;li&gt;线性层（全连接层）&lt;/li&gt;&lt;li&gt;激活函数&lt;/li&gt;&lt;li&gt;mask机制&lt;/li&gt;&lt;li&gt;loss的计算与参数回传&lt;/li&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-504" y="39" width="281" height="379" as="geometry" />
+        </mxCell>
+        <mxCell id="3WULmgCB93QxSMf1BTFl-6" value="Transformer的特性" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-421.75" y="101" width="116.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
