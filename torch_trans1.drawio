@@ -281,7 +281,7 @@
             <mxPoint x="339.5" y="134" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3WULmgCB93QxSMf1BTFl-5" value="&lt;ol&gt;&lt;li&gt;Attention机制：CNN用卷积核提取特征，RNN用循环结构提取特征。Transformer&lt;br&gt;用注意力机制提取特征。&lt;/li&gt;&lt;li&gt;Encoder-Decoder结构：多层特征编码与&lt;br&gt;解码&lt;/li&gt;&lt;li&gt;dropout：给神经元设置小概率随机遗忘，&lt;br&gt;主要作用是防止过拟合。&lt;/li&gt;&lt;li&gt;归一化：均值0方差1&lt;/li&gt;&lt;li&gt;前馈网络：拟合非线性特征。&lt;/li&gt;&lt;li&gt;线性层：全连接层，每一个参数之间链接&lt;/li&gt;&lt;li&gt;激活函数：RELU/GELU等。&lt;/li&gt;&lt;li&gt;mask机制：数值相加、拼接。&lt;/li&gt;&lt;li&gt;loss的计算与参数回传&lt;/li&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+        <mxCell id="3WULmgCB93QxSMf1BTFl-5" value="&lt;ol&gt;&lt;li&gt;Attention机制：CNN用卷积核提取特征，RNN用循环结构提取特征。Transformer&lt;br&gt;用注意力机制提取特征。&lt;/li&gt;&lt;li&gt;Encoder-Decoder结构：多层特征编码与&lt;br&gt;解码。&lt;/li&gt;&lt;li&gt;dropout：给神经元设置小概率随机遗忘，&lt;br&gt;主要作用是防止过拟合。&lt;/li&gt;&lt;li&gt;归一化：均值0方差1。&lt;/li&gt;&lt;li&gt;前馈网络：拟合非线性特征。&lt;/li&gt;&lt;li&gt;线性层：全连接层，每一个参数之间链接&lt;/li&gt;&lt;li&gt;激活函数：RELU/GELU等。&lt;/li&gt;&lt;li&gt;mask机制：数值相加、拼接。&lt;/li&gt;&lt;li&gt;loss的计算与参数回传&lt;/li&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="-504" y="39" width="281" height="379" as="geometry" />
         </mxCell>
         <mxCell id="3WULmgCB93QxSMf1BTFl-6" value="Transformer的特性" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
