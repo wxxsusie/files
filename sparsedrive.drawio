@@ -40,20 +40,44 @@
         <mxCell id="MdxfO4Nw2_HGN67nGP4e-13" value="I (N, C, Hs, Ws)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="106" y="540" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MdxfO4Nw2_HGN67nGP4e-14" value="feature maps I" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="200" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="MdxfO4Nw2_HGN67nGP4e-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="281" width="140" height="180" as="geometry" />
         </mxCell>
         <mxCell id="MdxfO4Nw2_HGN67nGP4e-16" value="perception module" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="347.5" y="281" width="105" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MdxfO4Nw2_HGN67nGP4e-17" value="surrounding agents" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="480" width="120" height="60" as="geometry" />
+        <mxCell id="MdxfO4Nw2_HGN67nGP4e-17" value="surrounding agents&lt;div&gt;Fd&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="480" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="MdxfO4Nw2_HGN67nGP4e-18" value="map elements" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="480" width="120" height="60" as="geometry" />
+        <mxCell id="MdxfO4Nw2_HGN67nGP4e-18" value="map elements&lt;div&gt;Bd&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="480" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MdxfO4Nw2_HGN67nGP4e-19" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="281" width="140" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="MdxfO4Nw2_HGN67nGP4e-20" value="motion planner" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="647.5" y="281" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MdxfO4Nw2_HGN67nGP4e-21" value="map elements" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="200" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MdxfO4Nw2_HGN67nGP4e-22" value="surrounding agents" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="655" y="200" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MdxfO4Nw2_HGN67nGP4e-23" value="initialized ego" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="200" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MdxfO4Nw2_HGN67nGP4e-24" value="trajectory" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MdxfO4Nw2_HGN67nGP4e-25" value="feature maps I" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="200" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MdxfO4Nw2_HGN67nGP4e-26" value="instance features Fd" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="200" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MdxfO4Nw2_HGN67nGP4e-27" value="anchor boxes Bd" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="200" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
