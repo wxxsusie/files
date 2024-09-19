@@ -79,6 +79,12 @@
         <mxCell id="MdxfO4Nw2_HGN67nGP4e-27" value="anchor boxes Bd" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="200" width="90" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="MdxfO4Nw2_HGN67nGP4e-28" value="non-temporal decoder" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MdxfO4Nw2_HGN67nGP4e-29" value="temporal decoder" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="391" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
