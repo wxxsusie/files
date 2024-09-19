@@ -115,7 +115,7 @@
         <mxCell id="ALasrI6WZMe77TCxt2ad-2" value="&lt;div&gt;IDENTIFY:&lt;/div&gt;car&lt;div&gt;truck&lt;/div&gt;&lt;div&gt;construction_vehicle&lt;/div&gt;&lt;div&gt;bus&lt;/div&gt;&lt;div&gt;trailer&lt;/div&gt;&lt;div&gt;barrier&lt;/div&gt;&lt;div&gt;motorcycle&lt;/div&gt;&lt;div&gt;bicycle&lt;/div&gt;&lt;div&gt;pedestrian&lt;/div&gt;&lt;div&gt;traffic_cone&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;ped_crossing&lt;/div&gt;&lt;div&gt;divider&lt;/div&gt;&lt;div&gt;boundary&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="980" y="110" width="170" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="ALasrI6WZMe77TCxt2ad-3" value="gnn&lt;div&gt;norm&lt;/div&gt;&lt;div&gt;deformable&lt;/div&gt;&lt;div&gt;ffn&lt;/div&gt;&lt;div&gt;norm&lt;/div&gt;&lt;div&gt;refine&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ALasrI6WZMe77TCxt2ad-3" value="&lt;div&gt;SparseDriveHead:&lt;/div&gt;gnn&lt;div&gt;norm&lt;/div&gt;&lt;div&gt;deformable&lt;/div&gt;&lt;div&gt;ffn&lt;/div&gt;&lt;div&gt;norm&lt;/div&gt;&lt;div&gt;refine&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="980" y="420" width="170" height="150" as="geometry" />
         </mxCell>
       </root>
