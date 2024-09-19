@@ -47,10 +47,10 @@
           <mxGeometry x="347.5" y="281" width="105" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MdxfO4Nw2_HGN67nGP4e-17" value="&lt;div&gt;Fd&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="480" width="90" height="50" as="geometry" />
+          <mxGeometry x="300" y="480" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MdxfO4Nw2_HGN67nGP4e-18" value="&lt;div&gt;Bd&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="480" width="90" height="50" as="geometry" />
+          <mxGeometry x="410" y="480" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MdxfO4Nw2_HGN67nGP4e-19" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="281" width="140" height="180" as="geometry" />
