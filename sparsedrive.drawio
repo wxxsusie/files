@@ -91,10 +91,10 @@
         <mxCell id="MdxfO4Nw2_HGN67nGP4e-37" value="online mapping" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="357.5" y="721" width="105" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MdxfO4Nw2_HGN67nGP4e-38" value="&lt;div&gt;Fm&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MdxfO4Nw2_HGN67nGP4e-38" value="&lt;div&gt;Fm&lt;/div&gt;&lt;div&gt;(Nm, C)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="920" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="MdxfO4Nw2_HGN67nGP4e-39" value="&lt;div&gt;Lm&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MdxfO4Nw2_HGN67nGP4e-39" value="&lt;div&gt;Lm&lt;/div&gt;&lt;div&gt;(Nm, Np, 2)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="920" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MdxfO4Nw2_HGN67nGP4e-40" value="feature maps I" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -103,7 +103,7 @@
         <mxCell id="MdxfO4Nw2_HGN67nGP4e-41" value="instance features Fm" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="355" y="640" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="MdxfO4Nw2_HGN67nGP4e-42" value="anchor polylines Lm" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MdxfO4Nw2_HGN67nGP4e-42" value="anchor polylines Lm&lt;div&gt;(Nm, Np*2)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="640" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MdxfO4Nw2_HGN67nGP4e-43" value="non-temporal decoder" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
