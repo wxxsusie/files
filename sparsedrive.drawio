@@ -85,6 +85,33 @@
         <mxCell id="MdxfO4Nw2_HGN67nGP4e-29" value="temporal decoder" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="391" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="MdxfO4Nw2_HGN67nGP4e-36" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="651" width="140" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="MdxfO4Nw2_HGN67nGP4e-37" value="sparse detection" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="347.5" y="651" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MdxfO4Nw2_HGN67nGP4e-38" value="&lt;div&gt;Fd&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="850" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MdxfO4Nw2_HGN67nGP4e-39" value="&lt;div&gt;Bd&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="850" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MdxfO4Nw2_HGN67nGP4e-40" value="feature maps I" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="570" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MdxfO4Nw2_HGN67nGP4e-41" value="instance features Fd" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="570" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MdxfO4Nw2_HGN67nGP4e-42" value="anchor boxes Bd" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="570" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MdxfO4Nw2_HGN67nGP4e-43" value="non-temporal decoder" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MdxfO4Nw2_HGN67nGP4e-44" value="temporal decoder" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="761" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
