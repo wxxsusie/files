@@ -43,6 +43,18 @@
         <mxCell id="MdxfO4Nw2_HGN67nGP4e-14" value="feature maps I" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="200" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="MdxfO4Nw2_HGN67nGP4e-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="281" width="140" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="MdxfO4Nw2_HGN67nGP4e-16" value="perception module" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="347.5" y="281" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MdxfO4Nw2_HGN67nGP4e-17" value="surrounding agents" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MdxfO4Nw2_HGN67nGP4e-18" value="map elements" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
