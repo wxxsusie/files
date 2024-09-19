@@ -34,8 +34,14 @@
         <mxCell id="MdxfO4Nw2_HGN67nGP4e-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="480" width="140" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="MdxfO4Nw2_HGN67nGP4e-11" value="multi-view&lt;div&gt;multi-scale&lt;/div&gt;&lt;div&gt;feature maps&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="MdxfO4Nw2_HGN67nGP4e-11" value="multi-view&lt;div&gt;multi-scale&lt;/div&gt;&lt;div&gt;feature maps I&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="110" y="490" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MdxfO4Nw2_HGN67nGP4e-13" value="I (N, C, Hs, Ws)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="106" y="540" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MdxfO4Nw2_HGN67nGP4e-14" value="feature maps I" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
