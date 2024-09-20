@@ -76,7 +76,7 @@
         <mxCell id="MdxfO4Nw2_HGN67nGP4e-26" value="instance features Fd" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="345" y="200" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="MdxfO4Nw2_HGN67nGP4e-27" value="anchor boxes Bd" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="MdxfO4Nw2_HGN67nGP4e-27" value="anchor boxes Bd&lt;div&gt;(Nd, 11)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="450" y="200" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MdxfO4Nw2_HGN67nGP4e-28" value="non-temporal decoder" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
