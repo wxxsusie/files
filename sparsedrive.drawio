@@ -55,7 +55,7 @@
         <mxCell id="MdxfO4Nw2_HGN67nGP4e-19" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="658" y="281" width="140" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="MdxfO4Nw2_HGN67nGP4e-20" value="motion planner" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="MdxfO4Nw2_HGN67nGP4e-20" value="sparse4d&amp;nbsp;&lt;div&gt;motion planner&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="675.5" y="281" width="105" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MdxfO4Nw2_HGN67nGP4e-21" value="map elements" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
