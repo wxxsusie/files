@@ -20,13 +20,16 @@
           <mxGeometry x="540" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r6HxHEpXDy4I0rtk-ksx-6" value="initialized detection&lt;div&gt;Queries&lt;/div&gt;&lt;div&gt;探测新物体&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r6HxHEpXDy4I0rtk-ksx-7" value="track Queries&lt;div&gt;跟踪物体轨迹&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="r6HxHEpXDy4I0rtk-ksx-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="320" width="120" height="60" as="geometry" />
+        <mxCell id="r6HxHEpXDy4I0rtk-ksx-8" value="self-attention" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="380" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r6HxHEpXDy4I0rtk-ksx-9" value="上一个time step的track information" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
