@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="r6HxHEpXDy4I0rtk-ksx-1" value="Perception" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="60" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r6HxHEpXDy4I0rtk-ksx-2" value="Prediction" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="60" width="120" height="60" as="geometry" />
@@ -14,10 +14,16 @@
           <mxGeometry x="960" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r6HxHEpXDy4I0rtk-ksx-4" value="TrackFormer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="100" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r6HxHEpXDy4I0rtk-ksx-5" value="MapFormer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="470" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r6HxHEpXDy4I0rtk-ksx-6" value="initialized detection&lt;div&gt;Queries&lt;/div&gt;&lt;div&gt;探测新物体&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r6HxHEpXDy4I0rtk-ksx-7" value="track queries&lt;div&gt;跟踪物体轨迹&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
