@@ -103,8 +103,8 @@
             <mxPoint x="667" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r6HxHEpXDy4I0rtk-ksx-26" value="MotionFormer&lt;div&gt;同时预测所有agent的top-k可能路径&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="860" y="174" width="120" height="90" as="geometry" />
+        <mxCell id="r6HxHEpXDy4I0rtk-ksx-26" value="MotionFormer&lt;div&gt;同时预测所有agent的top-k可能路径&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;（agent个数, 路径个数, 2)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="176" width="120" height="106" as="geometry" />
         </mxCell>
         <mxCell id="r6HxHEpXDy4I0rtk-ksx-27" value="Qa" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="540" width="120" height="60" as="geometry" />
@@ -133,7 +133,7 @@
         <mxCell id="r6HxHEpXDy4I0rtk-ksx-32" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="800" y="570" as="sourcePoint" />
-            <mxPoint x="800" y="220" as="targetPoint" />
+            <mxPoint x="800" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="r6HxHEpXDy4I0rtk-ksx-33" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
@@ -144,7 +144,7 @@
         </mxCell>
         <mxCell id="r6HxHEpXDy4I0rtk-ksx-34" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="r6HxHEpXDy4I0rtk-ksx-26">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="800" y="220" as="sourcePoint" />
+            <mxPoint x="800" y="230" as="sourcePoint" />
             <mxPoint x="850" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
