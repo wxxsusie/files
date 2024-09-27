@@ -226,7 +226,7 @@
             <mxPoint x="440" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gVVT2Fr3jdANTdwnyOP--1" value="agent features" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gVVT2Fr3jdANTdwnyOP--1" value="MLP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1350" y="178" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gVVT2Fr3jdANTdwnyOP--2" value="Qx&lt;div&gt;(个数Na, 特征D)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -286,7 +286,10 @@
             <mxPoint x="1450" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gVVT2Fr3jdANTdwnyOP--14" value="attention" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gVVT2Fr3jdANTdwnyOP--14" value="dense feature Ft" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gVVT2Fr3jdANTdwnyOP--15" value="agent features&lt;div&gt;Gt&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1350" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
