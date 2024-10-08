@@ -236,67 +236,67 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RejkoBYTytfAnYEw5EJz-26" value="instance features&lt;div&gt;(M, C)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="950.5" y="220" width="90" height="60" as="geometry" />
+          <mxGeometry x="1031.5" y="220" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RejkoBYTytfAnYEw5EJz-27" value="anchors&lt;div&gt;(M, 11)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1120.5" y="220" width="90" height="60" as="geometry" />
+          <mxGeometry x="1201.5" y="220" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RejkoBYTytfAnYEw5EJz-28" value="self-attention" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="935.5" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="1016.5" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RejkoBYTytfAnYEw5EJz-29" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1088.5" y="310" width="150" height="250" as="geometry" />
+          <mxGeometry x="1169.5" y="310" width="150" height="250" as="geometry" />
         </mxCell>
         <mxCell id="RejkoBYTytfAnYEw5EJz-30" value="deformable 4d aggregation" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1124" y="311" width="83" height="30" as="geometry" />
+          <mxGeometry x="1205" y="311" width="83" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RejkoBYTytfAnYEw5EJz-31" value="4d keypoints generation" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1103.5" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="1184.5" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RejkoBYTytfAnYEw5EJz-32" value="4d feature&lt;br&gt;sampling" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1103.5" y="419" width="120" height="60" as="geometry" />
+          <mxGeometry x="1184.5" y="419" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RejkoBYTytfAnYEw5EJz-33" value="hierarchy&lt;div&gt;fusion&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1102.5" y="488" width="120" height="60" as="geometry" />
+          <mxGeometry x="1183.5" y="488" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RejkoBYTytfAnYEw5EJz-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="RejkoBYTytfAnYEw5EJz-26" target="RejkoBYTytfAnYEw5EJz-28" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="800.5" y="500" as="sourcePoint" />
-            <mxPoint x="850.5" y="450" as="targetPoint" />
+            <mxPoint x="881.5" y="500" as="sourcePoint" />
+            <mxPoint x="931.5" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RejkoBYTytfAnYEw5EJz-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="RejkoBYTytfAnYEw5EJz-28" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1050.5" y="350" as="sourcePoint" />
-            <mxPoint x="1088" y="340" as="targetPoint" />
+            <mxPoint x="1131.5" y="350" as="sourcePoint" />
+            <mxPoint x="1169" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RejkoBYTytfAnYEw5EJz-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="RejkoBYTytfAnYEw5EJz-27" target="RejkoBYTytfAnYEw5EJz-30" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="800.5" y="500" as="sourcePoint" />
-            <mxPoint x="850.5" y="450" as="targetPoint" />
+            <mxPoint x="881.5" y="500" as="sourcePoint" />
+            <mxPoint x="931.5" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RejkoBYTytfAnYEw5EJz-37" value="reweight &amp;amp; refine" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1088.5" y="580" width="150" height="60" as="geometry" />
+          <mxGeometry x="1169.5" y="580" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RejkoBYTytfAnYEw5EJz-38" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="RejkoBYTytfAnYEw5EJz-29" target="RejkoBYTytfAnYEw5EJz-37" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="800.5" y="390" as="sourcePoint" />
-            <mxPoint x="850.5" y="340" as="targetPoint" />
+            <mxPoint x="881.5" y="390" as="sourcePoint" />
+            <mxPoint x="931.5" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RejkoBYTytfAnYEw5EJz-39" value="sparse 4d&lt;div&gt;detection result&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1104" y="660" width="120" height="60" as="geometry" />
+          <mxGeometry x="1185" y="660" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RejkoBYTytfAnYEw5EJz-40" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="RejkoBYTytfAnYEw5EJz-37" target="RejkoBYTytfAnYEw5EJz-39" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1160" y="640" as="sourcePoint" />
-            <mxPoint x="1210" y="590" as="targetPoint" />
+            <mxPoint x="1241" y="640" as="sourcePoint" />
+            <mxPoint x="1291" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RejkoBYTytfAnYEw5EJz-41" value="sparse4d result:&lt;div&gt;agent ID&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="935.5" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="1016.5" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RejkoBYTytfAnYEw5EJz-43" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="RejkoBYTytfAnYEw5EJz-41" target="MdxfO4Nw2_HGN67nGP4e-22" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -317,10 +317,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="D3aBGpgpoMeAoNPZuiEU-5" value="&lt;b&gt;Sparse4D&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1056" y="80" width="60" height="30" as="geometry" />
+          <mxGeometry x="1137" y="80" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Db1xbgxjtVCpYMK73Lc0-1" value="image feature queue I&lt;div&gt;(t, n, s)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="936" y="405" width="120" height="60" as="geometry" />
+          <mxGeometry x="1017" y="405" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Db1xbgxjtVCpYMK73Lc0-2" value="&lt;div&gt;INSTANCES:&lt;/div&gt;car&lt;div&gt;truck&lt;/div&gt;&lt;div&gt;construction_vehicle&lt;/div&gt;&lt;div&gt;bus&lt;/div&gt;&lt;div&gt;trailer&lt;/div&gt;&lt;div&gt;barrier&lt;/div&gt;&lt;div&gt;motorcycle&lt;/div&gt;&lt;div&gt;bicycle&lt;/div&gt;&lt;div&gt;pedestrian&lt;/div&gt;&lt;div&gt;traffic_cone&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;ped_crossing&lt;/div&gt;&lt;div&gt;divider&lt;/div&gt;&lt;div&gt;boundary&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="51" y="760" width="170" height="280" as="geometry" />
@@ -329,7 +329,10 @@
           <mxGeometry x="51" y="1065" width="170" height="150" as="geometry" />
         </mxCell>
         <mxCell id="Db1xbgxjtVCpYMK73Lc0-4" value="4d keypoints generation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1420" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="1401" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Db1xbgxjtVCpYMK73Lc0-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1401" y="380" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
