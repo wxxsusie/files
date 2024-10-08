@@ -295,7 +295,7 @@
         <mxCell id="Db1xbgxjtVCpYMK73Lc0-20" value="4d keypoints generation" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1188" y="351" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Db1xbgxjtVCpYMK73Lc0-22" value="keypoints&lt;div&gt;(实例m, 特征K, 时间T, 3)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Db1xbgxjtVCpYMK73Lc0-22" value="keypoints P&lt;div&gt;(实例m, 特征K, 时间T, 3)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1194" y="381" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Db1xbgxjtVCpYMK73Lc0-23" value="fixed keypoints&lt;div&gt;(m, Kf, T, 3)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -317,10 +317,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Db1xbgxjtVCpYMK73Lc0-27" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1107" y="582" width="300" height="200" as="geometry" />
+          <mxGeometry x="1106" y="582" width="300" height="200" as="geometry" />
         </mxCell>
         <mxCell id="Db1xbgxjtVCpYMK73Lc0-28" value="4d feature sampling" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1191" y="582" width="130" height="30" as="geometry" />
+          <mxGeometry x="1190" y="582" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Db1xbgxjtVCpYMK73Lc0-29" value="instance features&lt;div&gt;(实例M, 特征C)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCE5FF;" vertex="1" parent="1">
           <mxGeometry x="968.5" y="240" width="90" height="60" as="geometry" />
@@ -360,6 +360,24 @@
             <mxPoint x="1060" y="780" as="sourcePoint" />
             <mxPoint x="1110" y="730" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Db1xbgxjtVCpYMK73Lc0-42" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Db1xbgxjtVCpYMK73Lc0-19" target="Db1xbgxjtVCpYMK73Lc0-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1490" y="600" as="sourcePoint" />
+            <mxPoint x="1510" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Db1xbgxjtVCpYMK73Lc0-43" value="image feature queue I" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="615" width="110" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Db1xbgxjtVCpYMK73Lc0-44" value="keypoints P" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1267" y="615" width="113" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Db1xbgxjtVCpYMK73Lc0-45" value="bilinear interpolation双线性插值" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="675" width="250" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="Db1xbgxjtVCpYMK73Lc0-46" value="feature(m, k, t, n, s)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="720" width="250" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
