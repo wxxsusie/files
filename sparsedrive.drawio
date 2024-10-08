@@ -328,41 +328,35 @@
         <mxCell id="Db1xbgxjtVCpYMK73Lc0-3" value="&lt;div&gt;SparseDriveHead-decoder:&lt;/div&gt;gnn&lt;div&gt;norm&lt;/div&gt;&lt;div&gt;deformable&lt;/div&gt;&lt;div&gt;ffn&lt;/div&gt;&lt;div&gt;norm&lt;/div&gt;&lt;div&gt;refine&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="51" y="1065" width="170" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="Db1xbgxjtVCpYMK73Lc0-4" value="4d keypoints generation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1904.5" y="267" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Db1xbgxjtVCpYMK73Lc0-5" value="keypoints&lt;div&gt;(实例m, 特征K, 时间T, 3)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1904.5" y="357" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Db1xbgxjtVCpYMK73Lc0-6" value="fixed keypoints&lt;div&gt;(m, Kf, T, 3)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1823.5" y="451" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Db1xbgxjtVCpYMK73Lc0-7" value="leanable keypoints&lt;div&gt;(m, K-Kf, T, 3)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1983.5" y="451" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Db1xbgxjtVCpYMK73Lc0-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Db1xbgxjtVCpYMK73Lc0-4" target="Db1xbgxjtVCpYMK73Lc0-5">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2133.5" y="360" as="sourcePoint" />
-            <mxPoint x="2183.5" y="310" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Db1xbgxjtVCpYMK73Lc0-11" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Db1xbgxjtVCpYMK73Lc0-6" target="Db1xbgxjtVCpYMK73Lc0-5">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1883.5" y="640" as="sourcePoint" />
-            <mxPoint x="1933.5" y="590" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Db1xbgxjtVCpYMK73Lc0-12" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Db1xbgxjtVCpYMK73Lc0-7" target="Db1xbgxjtVCpYMK73Lc0-5">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1963.5" y="620" as="sourcePoint" />
-            <mxPoint x="2013.5" y="570" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Db1xbgxjtVCpYMK73Lc0-18" value="deformable 4d aggregation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1110" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Db1xbgxjtVCpYMK73Lc0-19" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="320" width="180" height="180" as="geometry" />
+          <mxGeometry x="1022" y="320" width="300" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Db1xbgxjtVCpYMK73Lc0-20" value="4d keypoints generation" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1107" y="320" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Db1xbgxjtVCpYMK73Lc0-22" value="keypoints&lt;div&gt;(实例m, 特征K, 时间T, 3)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1113" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Db1xbgxjtVCpYMK73Lc0-23" value="fixed keypoints&lt;div&gt;(m, Kf, T, 3)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1032" y="444" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Db1xbgxjtVCpYMK73Lc0-24" value="leanable keypoints&lt;div&gt;(m, K-Kf, T, 3)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1192" y="444" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Db1xbgxjtVCpYMK73Lc0-25" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Db1xbgxjtVCpYMK73Lc0-23" target="Db1xbgxjtVCpYMK73Lc0-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1092" y="633" as="sourcePoint" />
+            <mxPoint x="1142" y="583" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Db1xbgxjtVCpYMK73Lc0-26" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Db1xbgxjtVCpYMK73Lc0-24" target="Db1xbgxjtVCpYMK73Lc0-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1172" y="613" as="sourcePoint" />
+            <mxPoint x="1222" y="563" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
