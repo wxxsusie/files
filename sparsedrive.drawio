@@ -296,7 +296,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RejkoBYTytfAnYEw5EJz-41" value="sparse4d result:&lt;div&gt;agent ID&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1016.5" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="1107" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RejkoBYTytfAnYEw5EJz-43" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="RejkoBYTytfAnYEw5EJz-41" target="MdxfO4Nw2_HGN67nGP4e-22" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -358,20 +358,11 @@
             <mxPoint x="2013.5" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Db1xbgxjtVCpYMK73Lc0-13" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1166" y="292" width="150" height="250" as="geometry" />
+        <mxCell id="Db1xbgxjtVCpYMK73Lc0-18" value="deformable 4d aggregation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Db1xbgxjtVCpYMK73Lc0-14" value="deformable 4d aggregation" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1203" y="293" width="81.5" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Db1xbgxjtVCpYMK73Lc0-15" value="4d keypoints generation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1181" y="332" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Db1xbgxjtVCpYMK73Lc0-16" value="4d feature&lt;br&gt;sampling" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1181" y="401" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Db1xbgxjtVCpYMK73Lc0-17" value="hierarchy&lt;div&gt;fusion&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1180" y="470" width="120" height="60" as="geometry" />
+        <mxCell id="Db1xbgxjtVCpYMK73Lc0-19" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="320" width="180" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
