@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" version="24.7.16">
   <diagram name="第 1 页" id="YOAP40VyK5vfWviQJd3N">
-    <mxGraphModel dx="1887" dy="897" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1118" dy="555" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -327,6 +327,9 @@
         </mxCell>
         <mxCell id="Db1xbgxjtVCpYMK73Lc0-3" value="&lt;div&gt;SparseDriveHead-decoder:&lt;/div&gt;gnn&lt;div&gt;norm&lt;/div&gt;&lt;div&gt;deformable&lt;/div&gt;&lt;div&gt;ffn&lt;/div&gt;&lt;div&gt;norm&lt;/div&gt;&lt;div&gt;refine&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="51" y="1065" width="170" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Db1xbgxjtVCpYMK73Lc0-4" value="4d keypoints generation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
