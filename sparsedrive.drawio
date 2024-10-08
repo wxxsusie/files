@@ -367,10 +367,10 @@
             <mxPoint x="1510" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Db1xbgxjtVCpYMK73Lc0-43" value="image feature queue I" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Db1xbgxjtVCpYMK73Lc0-43" value="image feature queue I" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCE5FF;" vertex="1" parent="1">
           <mxGeometry x="1130" y="615" width="110" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="Db1xbgxjtVCpYMK73Lc0-44" value="keypoints P" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Db1xbgxjtVCpYMK73Lc0-44" value="keypoints P" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCCC;" vertex="1" parent="1">
           <mxGeometry x="1267" y="615" width="113" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Db1xbgxjtVCpYMK73Lc0-45" value="bilinear interpolation双线性插值" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
