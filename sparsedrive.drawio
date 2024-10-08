@@ -331,7 +331,7 @@
         <mxCell id="Db1xbgxjtVCpYMK73Lc0-4" value="4d keypoints generation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1501" y="277" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Db1xbgxjtVCpYMK73Lc0-5" value="keypoints&lt;div&gt;(m, K, T, 3)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Db1xbgxjtVCpYMK73Lc0-5" value="keypoints&lt;div&gt;(实例m, 特征K, 时间T, 3)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1501" y="367" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Db1xbgxjtVCpYMK73Lc0-6" value="fixed keypoints&lt;div&gt;(m, Kf, T, 3)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
