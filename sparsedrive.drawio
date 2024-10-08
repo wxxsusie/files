@@ -278,7 +278,7 @@
           <mxGeometry x="1137" y="80" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Db1xbgxjtVCpYMK73Lc0-1" value="image feature queue I&lt;div&gt;(时间t, 视角n, 尺度s)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCE5FF;" vertex="1" parent="1">
-          <mxGeometry x="951.75" y="651" width="120" height="60" as="geometry" />
+          <mxGeometry x="953.5" y="652" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Db1xbgxjtVCpYMK73Lc0-2" value="&lt;div&gt;INSTANCES:&lt;/div&gt;car&lt;div&gt;truck&lt;/div&gt;&lt;div&gt;construction_vehicle&lt;/div&gt;&lt;div&gt;bus&lt;/div&gt;&lt;div&gt;trailer&lt;/div&gt;&lt;div&gt;barrier&lt;/div&gt;&lt;div&gt;motorcycle&lt;/div&gt;&lt;div&gt;bicycle&lt;/div&gt;&lt;div&gt;pedestrian&lt;/div&gt;&lt;div&gt;traffic_cone&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;ped_crossing&lt;/div&gt;&lt;div&gt;divider&lt;/div&gt;&lt;div&gt;boundary&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="51" y="760" width="170" height="280" as="geometry" />
@@ -317,7 +317,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Db1xbgxjtVCpYMK73Lc0-27" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1106" y="582" width="300" height="200" as="geometry" />
+          <mxGeometry x="1107" y="582" width="300" height="200" as="geometry" />
         </mxCell>
         <mxCell id="Db1xbgxjtVCpYMK73Lc0-28" value="4d feature sampling" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1191" y="582" width="130" height="30" as="geometry" />
