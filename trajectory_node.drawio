@@ -31,10 +31,10 @@
         <mxCell id="fdqubBedCS-_cA7VgkMp-10" value="scenario_planning.launch.xml" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="990" y="160" width="210" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fdqubBedCS-_cA7VgkMp-11" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;/planning/scenario_planning/lane_driving/trajectory&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fdqubBedCS-_cA7VgkMp-11" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;/planning/scenario_planning/parking/trajectory&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="270" width="310" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fdqubBedCS-_cA7VgkMp-12" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;/planning/scenario_planning/parking/trajectory&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fdqubBedCS-_cA7VgkMp-12" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;/planning/scenario_planning/lane_driving/trajectory&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1190" y="270" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fdqubBedCS-_cA7VgkMp-13" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="fdqubBedCS-_cA7VgkMp-10">
