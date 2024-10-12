@@ -73,7 +73,7 @@
         <mxCell id="fdqubBedCS-_cA7VgkMp-20" value="motion_planning.launch.xml" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1245" y="380" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fdqubBedCS-_cA7VgkMp-21" value="/planning/mission_planning/route" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fdqubBedCS-_cA7VgkMp-21" value="/planning/mission_planning/route" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCE5FF;" vertex="1" parent="1">
           <mxGeometry x="752.5" y="480" width="225" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fdqubBedCS-_cA7VgkMp-22" value="/planning/scenario_planning/lane_driving/behavior_planning/path" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
