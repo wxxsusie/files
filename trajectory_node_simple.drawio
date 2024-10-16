@@ -4,20 +4,20 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="MviObnC_ksyXVTH5sszk-1" value="autoware控制器&lt;div&gt;controller&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="160" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="MviObnC_ksyXVTH5sszk-2" value="已规划路径消息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="70" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MviObnC_ksyXVTH5sszk-3" value="规划节点&lt;div&gt;scenario_planning&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="70" width="120" height="60" as="geometry" />
+          <mxGeometry x="580" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MviObnC_ksyXVTH5sszk-5" value="行泊路径" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MviObnC_ksyXVTH5sszk-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="160" width="120" height="60" as="geometry" />
+        <mxCell id="MviObnC_ksyXVTH5sszk-7" value="autoware控制器&lt;div&gt;controller&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MviObnC_ksyXVTH5sszk-8" value="planning.launch&lt;div&gt;发送路径消息&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="210" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
