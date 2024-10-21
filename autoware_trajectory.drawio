@@ -5,7 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="DaoDRAan5N-xbQoOhHpL-1" value="【simple_trajectory_follower.launch】&lt;div&gt;&lt;br&gt;&lt;div&gt;input: /localization/kinematic_state&lt;/div&gt;&lt;div&gt;input: /planning/scenario_planning/trajectory&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;output: /vehicle/command/manual_control_cmd&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="110" width="260" height="140" as="geometry" />
+          <mxGeometry x="200" y="110" width="400" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="DaoDRAan5N-xbQoOhHpL-2" value="【planning.launch】&lt;div&gt;&amp;lt;!-- planning validator --&amp;gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;input: /planning/scenario_planning/velocity_smoother&lt;span style=&quot;background-color: initial;&quot;&gt;/trajectory&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;output: /planning/scenario_planning/trajectory&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="201" y="300" width="399" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="DaoDRAan5N-xbQoOhHpL-3" value="【scenario_planning.launch】&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;lt;!-- motion velocity smoother --&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;input: /planning/scenario_planning/scenario_selector/trajectory&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;output: /planning/scenario_planning/velocity_smoother/trajectory&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="201" y="510" width="399" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
