@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" version="24.8.0">
   <diagram name="第 1 页" id="Bj05R8QRVJabiGc4-4df">
-    <mxGraphModel dx="1355" dy="665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1520" dy="886" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,7 +19,7 @@
         <mxCell id="DaoDRAan5N-xbQoOhHpL-5" value="【mission_planner.launch】&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;input: /planning/scenario_planning/modified_goal&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;input: /map/vector_map&lt;/span&gt;&lt;/div&gt;&lt;div&gt;input: /localization/kinematic_state&lt;/div&gt;&lt;div&gt;input:&amp;nbsp;/planning/scenario_planning/lane_driving/behavior_planning/&lt;br&gt;behavior_path_planner/output/is_reroute_available&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 153);&quot;&gt;publish: /planning/mission_planning/route&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="1550" width="400" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="DaoDRAan5N-xbQoOhHpL-6" value="【freespace_planner.launch】&lt;div&gt;&lt;br&gt;&lt;div&gt;input: input_route&lt;/div&gt;&lt;div&gt;input: input_occupancy_grid&lt;/div&gt;&lt;div&gt;input: input_scenario&lt;/div&gt;&lt;div&gt;input: /localization/kinematic_state&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;output: output_trajectory&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(204, 229, 255);&quot;&gt;publish: /planning/scenario_planning/parking/trajectory&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="DaoDRAan5N-xbQoOhHpL-6" value="【freespace_planner.launch】&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 153);&quot;&gt;input: input_route&lt;/span&gt;&lt;/div&gt;&lt;div&gt;input: input_occupancy_grid&lt;/div&gt;&lt;div&gt;input: input_scenario&lt;/div&gt;&lt;div&gt;input: /localization/kinematic_state&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;output: output_trajectory&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(204, 229, 255);&quot;&gt;publish: /planning/scenario_planning/parking/trajectory&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="38" y="945" width="399" height="220" as="geometry" />
         </mxCell>
         <mxCell id="DaoDRAan5N-xbQoOhHpL-7" value="【motion_planning.launch】&lt;div&gt;&lt;br&gt;&lt;div&gt;input: obstacle_velocity_limiter/trajectory&lt;/div&gt;&lt;div&gt;(&lt;span style=&quot;background-color: rgb(255, 204, 204);&quot;&gt;/planning/scenario_planning/lane_driving/behavior_planning/path&lt;/span&gt;)&lt;/div&gt;&lt;div&gt;input: /localization/kinematic_state&lt;/div&gt;&lt;div&gt;input: /localization/acceleration&lt;/div&gt;&lt;div&gt;input: /perception/object_recognition/objects&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(204, 229, 255);&quot;&gt;output:&amp;nbsp; /planning/scenario_planning/lane_driving/trajectory&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;output:&amp;nbsp;/planning/scenario_planning/status/stop_reasons&lt;/div&gt;&lt;div&gt;output:&amp;nbsp;/planning/scenario_planning/max_velocity_candidates&lt;/div&gt;&lt;div&gt;output:&amp;nbsp;/planning/scenario_planning/clear_velocity_limit&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -68,6 +68,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="130" y="230" as="sourcePoint" />
             <mxPoint x="180" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wsuHxp2bKw_w7uOm45Yj-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="DaoDRAan5N-xbQoOhHpL-5" target="DaoDRAan5N-xbQoOhHpL-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="1460" as="sourcePoint" />
+            <mxPoint x="350" y="1410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
