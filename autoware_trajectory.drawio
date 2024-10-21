@@ -28,6 +28,48 @@
         <mxCell id="wsuHxp2bKw_w7uOm45Yj-1" value="【behavior_planning.launch】&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 153);&quot;&gt;input:&amp;nbsp;/planning/mission_planning/route&lt;/span&gt;&lt;/div&gt;&lt;div&gt;input:&amp;nbsp;/map/vector_map&lt;/div&gt;&lt;div&gt;input:&amp;nbsp;/perception/object_recognition/objects&lt;/div&gt;&lt;div&gt;input:&amp;nbsp;/perception/occupancy_grid_map/map&lt;/div&gt;&lt;div&gt;input:&amp;nbsp;/planning/scenario_planning/parking&lt;/div&gt;&lt;div&gt;/costmap_generator/occupancy_grid&lt;/div&gt;&lt;div&gt;input:&amp;nbsp;/perception/traffic_light_recognition/traffic_signals&lt;/div&gt;&lt;div&gt;input:/localization/kinematic_state&lt;/div&gt;&lt;div&gt;input:/localization/acceleration&lt;/div&gt;&lt;div&gt;input:&amp;nbsp;/planning/scenario_planning/scenario&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 204, 204);&quot;&gt;output: path&lt;/span&gt;&lt;/div&gt;&lt;div&gt;output:&amp;nbsp;/planning/turn_indicators_cmd&lt;/div&gt;&lt;div&gt;output:&amp;nbsp;/planning/hazard_lights_cmd&lt;/div&gt;&lt;div&gt;output:&amp;nbsp;/planning/scenario_planning/modified_goal&lt;/div&gt;&lt;div&gt;output:&amp;nbsp;/planning/scenario_planning/status/stop_reasons&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="557" y="1200" width="402" height="310" as="geometry" />
         </mxCell>
+        <mxCell id="wsuHxp2bKw_w7uOm45Yj-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="DaoDRAan5N-xbQoOhHpL-5" target="wsuHxp2bKw_w7uOm45Yj-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="1550" as="sourcePoint" />
+            <mxPoint x="650" y="1500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wsuHxp2bKw_w7uOm45Yj-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="wsuHxp2bKw_w7uOm45Yj-1" target="DaoDRAan5N-xbQoOhHpL-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="1330" as="sourcePoint" />
+            <mxPoint x="410" y="1280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wsuHxp2bKw_w7uOm45Yj-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="DaoDRAan5N-xbQoOhHpL-6" target="DaoDRAan5N-xbQoOhHpL-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="1090" as="sourcePoint" />
+            <mxPoint x="510" y="1040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wsuHxp2bKw_w7uOm45Yj-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="DaoDRAan5N-xbQoOhHpL-7" target="DaoDRAan5N-xbQoOhHpL-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="1000" as="sourcePoint" />
+            <mxPoint x="550" y="950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wsuHxp2bKw_w7uOm45Yj-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="DaoDRAan5N-xbQoOhHpL-4" target="DaoDRAan5N-xbQoOhHpL-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="670" as="sourcePoint" />
+            <mxPoint x="270" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wsuHxp2bKw_w7uOm45Yj-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="DaoDRAan5N-xbQoOhHpL-3" target="DaoDRAan5N-xbQoOhHpL-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="470" as="sourcePoint" />
+            <mxPoint x="190" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wsuHxp2bKw_w7uOm45Yj-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="DaoDRAan5N-xbQoOhHpL-2" target="DaoDRAan5N-xbQoOhHpL-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="230" as="sourcePoint" />
+            <mxPoint x="180" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
